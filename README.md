@@ -7,8 +7,8 @@ The data can also be plotted by selecting a column(s) and inserting a chart
 - jumper wires
 - Moisture sensor
 ## Software
-. Arduino IDE
-. A Gmail account
+- Arduino IDE
+- A Gmail account
 ## Directions
 - Open your gmail account and navigate to sheets
 - Create a new sheet
